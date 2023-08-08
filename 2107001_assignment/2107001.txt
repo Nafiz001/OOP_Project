@@ -1,0 +1,502 @@
+ |============ WELCOME TO STORE MANAGEMENT ============|
+
+
+
+                                        STORE MANAGEMENT SYSTEM
+                        =============================================================
+
+                                           1. Dealer Menu
+                                           2. Customer Menu
+                                           3. Employee Menu
+
+                        =============================================================
+
+
+Enter Your Choice:1
+
+
+                                        Enter the password letter by letter: ******
+
+
+Congrats!!Access Granted!!
+
+
+                        ===============================================================
+
+                                           DEALER MENU
+                                        1. Add new product
+                                        2. Display stock
+                                        3. Refill
+                                        4. Remove an item
+                                        5. Return to main menu
+                                        6. Exit:
+
+
+                        ==========================END OF MENU===========================
+
+ Enter your Choice :    1
+
+Enter the No. of Products that you wish to add: 10
+
+
+Input the name, price and the quantity of item respectively
+
+Xiaomi_Mobile_X3_pro 26000 3
+
+
+Item updated
+
+Input the name, price and the quantity of item respectively
+
+Iphone_14 120000 2
+
+
+Item updated
+
+Input the name, price and the quantity of item respectively
+
+Macbook_M2 250000 3
+
+
+Item updated
+
+Input the name, price and the quantity of item respectively
+
+HP_VivoBook 112000 1
+
+
+Item updated
+
+Input the name, price and the quantity of item respectively
+
+Realme_Earbuds 1000 2
+
+
+Item updated
+
+Input the name, price and the quantity of item respectively
+
+Havit_K905_Keyboard 1500 5
+
+
+Item updated
+
+Input the name, price and the quantity of item respectively
+
+Logitech_Headset 2000 6
+
+
+Item updated
+
+Input the name, price and the quantity of item respectively
+
+KZ_87 800 20
+
+
+Item updated
+
+Input the name, price and the quantity of item respectively
+
+AU_Mouse 950 9
+
+
+Item updated
+
+Input the name, price and the quantity of item respectively
+
+Usb_cable 100 50
+
+
+Item updated
+
+Stock Updated!!
+
+                        ===============================================================
+
+                                           DEALER MENU
+                                        1. Add new product
+                                        2. Display stock
+                                        3. Refill
+                                        4. Remove an item
+                                        5. Return to main menu
+                                        6. Exit:
+
+
+                        ==========================END OF MENU===========================
+
+ Enter your Choice :    2
+
+==================================================================
+
+=================       THE STOCK ITEMS ARE     ==================
+
+==================================================================
+
+
+PARTICULARS     STOCK AVAILABLE                  PRICE
+
+============================================================
+
+Xiaomi_Mobile_X3_pro                    3                       26000
+Iphone_14                       2                       120000
+Macbook_M2                      3                       250000
+HP_VivoBook                     1                       112000
+Realme_Earbuds                  2                       1000
+Havit_K905_Keyboard                     5                       1500
+Logitech_Headset                        6                       2000
+KZ_87                   20                      800
+AU_Mouse                        9                       950
+Usb_cable                       50                      100
+                        ===============================================================
+
+                                           DEALER MENU
+                                        1. Add new product
+                                        2. Display stock
+                                        3. Refill
+                                        4. Remove an item
+                                        5. Return to main menu
+                                        6. Exit:
+
+
+                        ==========================END OF MENU===========================
+
+ Enter your Choice :    3
+
+
+Enter the products name
+
+KZ_87
+
+
+Enter quantity:
+
+2
+
+
+Stock updated.
+
+
+                        ===============================================================
+
+                                           DEALER MENU
+                                        1. Add new product
+                                        2. Display stock
+                                        3. Refill
+                                        4. Remove an item
+                                        5. Return to main menu
+                                        6. Exit:
+
+
+                        ==========================END OF MENU===========================
+
+ Enter your Choice :    2
+
+==================================================================
+
+=================       THE STOCK ITEMS ARE     ==================
+
+==================================================================
+
+
+PARTICULARS     STOCK AVAILABLE                  PRICE
+
+============================================================
+
+Xiaomi_Mobile_X3_pro                    3                       26000
+Iphone_14                       2                       120000
+Macbook_M2                      3                       250000
+HP_VivoBook                     1                       112000
+Realme_Earbuds                  2                       1000
+Havit_K905_Keyboard                     5                       1500
+Logitech_Headset                        6                       2000
+KZ_87                   22                      800
+AU_Mouse                        9                       950
+Usb_cable                       50                      100
+                        ===============================================================
+
+                                           DEALER MENU
+                                        1. Add new product
+                                        2. Display stock
+                                        3. Refill
+                                        4. Remove an item
+                                        5. Return to main menu
+                                        6. Exit:
+
+
+                        ==========================END OF MENU===========================
+
+ Enter your Choice :    4
+
+                                Delete Record
+
+Enter the name of the product:Usb_cable
+
+Usb_cable                       50                      100
+
+                Record deleted
+
+
+!!Record not found!!
+
+                        ===============================================================
+
+                                           DEALER MENU
+                                        1. Add new product
+                                        2. Display stock
+                                        3. Refill
+                                        4. Remove an item
+                                        5. Return to main menu
+                                        6. Exit:
+
+
+                        ==========================END OF MENU===========================
+
+ Enter your Choice :    2
+
+==================================================================
+
+=================       THE STOCK ITEMS ARE     ==================
+
+==================================================================
+
+
+PARTICULARS     STOCK AVAILABLE                  PRICE
+
+============================================================
+
+Xiaomi_Mobile_X3_pro                    3                       26000
+Iphone_14                       2                       120000
+Macbook_M2                      3                       250000
+HP_VivoBook                     1                       112000
+Realme_Earbuds                  2                       1000
+Havit_K905_Keyboard                     5                       1500
+Logitech_Headset                        6                       2000
+KZ_87                   22                      800
+AU_Mouse                        9                       950
+                        ===============================================================
+
+                                           DEALER MENU
+                                        1. Add new product
+                                        2. Display stock
+                                        3. Refill
+                                        4. Remove an item
+                                        5. Return to main menu
+                                        6. Exit:
+
+
+                        ==========================END OF MENU===========================
+
+ Enter your Choice :    5
+
+                                        STORE MANAGEMENT SYSTEM
+                        =============================================================
+
+                                           1. Dealer Menu
+                                           2. Customer Menu
+                                           3. Employee Menu
+
+                        =============================================================
+
+
+Enter Your Choice:2
+
+                        =================================================================
+
+                                            CUSTOMER MENU
+                                        1. Purchase
+                                        2. Display stock
+                                        3. Return to main menu
+                                        4. Exit:
+
+
+                        ==========================END OF MENU=============================
+
+ Enter your Choice :    2
+
+==================================================================
+
+=================       THE STOCK ITEMS ARE     ==================
+
+==================================================================
+
+
+PARTICULARS     STOCK AVAILABLE                  PRICE
+
+============================================================
+
+Xiaomi_Mobile_X3_pro                    3                       26000
+Iphone_14                       2                       120000
+Macbook_M2                      3                       250000
+HP_VivoBook                     1                       112000
+Realme_Earbuds                  2                       1000
+Havit_K905_Keyboard                     5                       1500
+Logitech_Headset                        6                       2000
+KZ_87                   22                      800
+AU_Mouse                        9                       950
+                        =================================================================
+
+                                            CUSTOMER MENU
+                                        1. Purchase
+                                        2. Display stock
+                                        3. Return to main menu
+                                        4. Exit:
+
+
+                        ==========================END OF MENU=============================
+
+ Enter your Choice :    1
+
+
+Enter the product's name
+
+Iphone_14
+
+
+Enter quantity:
+
+1
+
+
+Stock updated.
+
+
+Total price to be paid: 120000
+
+                        =================================================================
+
+                                            CUSTOMER MENU
+                                        1. Purchase
+                                        2. Display stock
+                                        3. Return to main menu
+                                        4. Exit:
+
+
+                        ==========================END OF MENU=============================
+
+ Enter your Choice :    2
+
+==================================================================
+
+=================       THE STOCK ITEMS ARE     ==================
+
+==================================================================
+
+
+PARTICULARS     STOCK AVAILABLE                  PRICE
+
+============================================================
+
+Xiaomi_Mobile_X3_pro                    3                       26000
+Iphone_14                       1                       120000
+Macbook_M2                      3                       250000
+HP_VivoBook                     1                       112000
+Realme_Earbuds                  2                       1000
+Havit_K905_Keyboard                     5                       1500
+Logitech_Headset                        6                       2000
+KZ_87                   22                      800
+AU_Mouse                        9                       950
+                        =================================================================
+
+                                            CUSTOMER MENU
+                                        1. Purchase
+                                        2. Display stock
+                                        3. Return to main menu
+                                        4. Exit:
+
+
+                        ==========================END OF MENU=============================
+
+ Enter your Choice :    3
+
+                                        STORE MANAGEMENT SYSTEM
+                        =============================================================
+
+                                           1. Dealer Menu
+                                           2. Customer Menu
+                                           3. Employee Menu
+
+                        =============================================================
+
+
+Enter Your Choice:3
+
+
+
+                                        Enter the password letter by letter: ***
+                        =================================================================
+
+                                        EMPLOYEE MENU
+                                        1. Display stock
+                                        2. Refill
+                                        3. Return to main menu
+                                        4. Exit
+
+
+                        ==========================END OF MENU=============================
+
+ Enter your Choice :    2
+
+
+Enter the products name
+
+Iphone_14
+
+
+Enter quantity:
+
+2
+
+
+Stock updated.
+
+
+                        =================================================================
+
+                                        EMPLOYEE MENU
+                                        1. Display stock
+                                        2. Refill
+                                        3. Return to main menu
+                                        4. Exit
+
+
+                        ==========================END OF MENU=============================
+
+ Enter your Choice :    1
+
+==================================================================
+
+=================       THE STOCK ITEMS ARE     ==================
+
+==================================================================
+
+
+PARTICULARS     STOCK AVAILABLE                  PRICE
+
+============================================================
+
+Xiaomi_Mobile_X3_pro                    3                       26000
+Iphone_14                       3                       120000
+Macbook_M2                      3                       250000
+HP_VivoBook                     1                       112000
+Realme_Earbuds                  2                       1000
+Havit_K905_Keyboard                     5                       1500
+Logitech_Headset                        6                       2000
+KZ_87                   22                      800
+AU_Mouse                        9                       950
+                        =================================================================
+
+                                        EMPLOYEE MENU
+                                        1. Display stock
+                                        2. Refill
+                                        3. Return to main menu
+                                        4. Exit
+
+
+                        ==========================END OF MENU=============================
+
+ Enter your Choice :    4
+
+
+
+                        Thank You!!
+Process returned 0 (0x0)   execution time : 671.115 s
